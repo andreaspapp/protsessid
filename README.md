@@ -1,3 +1,3 @@
 # Protsesside kaart
 
-* Kinnisasja vajalikkuse väljaselgitamine
+* [Kinnisasja vajalikkuse väljaselgitamine](RVS/§96v1.md)
