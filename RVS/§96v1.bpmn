@@ -29,7 +29,7 @@
     <bpmn:endEvent id="EndEvent_0v9il3o">
       <bpmn:incoming>SequenceFlow_15943gk</bpmn:incoming>
     </bpmn:endEvent>
-    <bpmn:task id="Task_057tvhy" name="RVV menetleb taotlust">
+    <bpmn:task id="Task_057tvhy" name="RVV arvestab taotlustega">
       <bpmn:incoming>SequenceFlow_0r8pkax</bpmn:incoming>
       <bpmn:incoming>SequenceFlow_0zgoka5</bpmn:incoming>
       <bpmn:outgoing>SequenceFlow_15943gk</bpmn:outgoing>
